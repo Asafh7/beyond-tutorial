@@ -127,6 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # Vagrant
 .vagrant
+||||||| 98395c7
+=======
+
+# Vagrant
+.vagrant
+
+#
+db.sqlite3
+>>>>>>> e54e70f9467f9f3f9223c8db1375753b83b05235
